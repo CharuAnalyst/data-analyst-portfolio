@@ -40,11 +40,10 @@ Key Metrics
 * Call trends showed fluctuations across months
 * High-rated calls contributed significantly to overall performance
 
-
 🖼️ Dashboard Preview
-![Call-Center-Dashboard](call_center_dashboard.png)
+![Dashboard](call_center_dashboard.png)
 
-Project Files
+📁 Project Files
 [Download Excel Dashboard](Call_center_project.xlsx)
 
 

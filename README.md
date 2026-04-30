@@ -41,7 +41,7 @@ Key Metrics
 * High-rated calls contributed significantly to overall performance
 
 🖼️ Dashboard Preview
-![Dashboard](call_center_dashboard.png)
+![Dashboard](dashboard.png)
 
 📁 Project Files
 [Download Excel Dashboard](Call_center_project.xlsx)

@@ -4,4 +4,4 @@
 ![Dashboard](dashboard.png)
 
 📁 Project Files
-[Download Power BI File](Sales Performance Dashbord.pbix)
+[Download Power BI File](sales_dashboard.pbix)

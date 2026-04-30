@@ -42,14 +42,12 @@ Key Metrics
 
 
 🖼️ Dashboard Preview
-
 ![Dashboard](call_center_dashboard.png)
 
 
 📁 Project Files
-
-* [Download Excel Dashboard] (Call_center_project.xlsx) → Excel dashboard file
-* ![Dashboard](call_center_dashboard.png) → Dashboard preview image
+- [Download Excel Dashboard](Call_center_project.xlsx)
+- ![Dashboard](call_center_dashboard.png)
 
 
 Conclusion

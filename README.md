@@ -42,7 +42,7 @@ Key Metrics
 
 
 🖼️ Dashboard Preview
-![Dashboard](call_center_dashboard.png)
+![Call-Center-Dashboard](call_center_dashboard.png)
 
 Project Files
 [Download Excel Dashboard](Call_center_project.xlsx)

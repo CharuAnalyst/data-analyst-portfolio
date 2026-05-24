@@ -2,123 +2,134 @@
 
 # Charu Sharma
 
-### Aspiring Data Analyst | Power BI | Advanced Excel | SQL | Python
+### Data Analyst Portfolio
 
-[LinkedIn](https://www.linkedin.com/in/charu-sharma-25a8923a0/) • [GitHub](https://github.com/CharuAnalyst) • [Email](mailto:sharmacharu32004@gmail.com)
+**Power BI | Advanced Excel | SQL | Python | Data Visualization | Business Reporting**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charu%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charu-sharma-25a8923a0/)
+[![GitHub](https://img.shields.io/badge/GitHub-CharuAnalyst-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharuAnalyst)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmacharu32004@gmail.com)
 
 </div>
 
 ---
 
-## About This Portfolio
+## Overview
 
-This portfolio showcases my hands-on Data Analyst projects using **Power BI, Advanced Excel, SQL, and Python**. My focus is on cleaning raw data, building clear dashboards, tracking business KPIs, and turning data into insights that support decision-making.
+Welcome to my Data Analyst portfolio. This repository showcases hands-on analytics projects built using **Power BI, Advanced Excel, SQL, and Python**.
 
-I am currently building practical analytics projects around **sales performance, call center operations, business reporting, and data visualization**.
-
----
-
-## Portfolio Snapshot
-
-| Area | What I Demonstrate |
-| --- | --- |
-| Dashboarding | Power BI and Excel dashboards with KPIs, slicers, filters, and business visuals |
-| Data Cleaning | Cleaning, formatting, transforming, and preparing raw datasets for analysis |
-| Business Analysis | Sales trends, profitability, customer ratings, agent performance, and operational KPIs |
-| Reporting | Structured dashboards and summaries that help users understand performance quickly |
-| Tools | Power BI, Advanced Excel, SQL, Python, DAX, Power Query, Pandas, NumPy |
+My focus is on cleaning raw datasets, building interactive dashboards, tracking business KPIs, and presenting insights that support better decision-making. The projects in this portfolio cover sales performance, retail analytics, call center operations, and business reporting.
 
 ---
 
-## Technical Skills
+## Skills Snapshot
 
-| Category | Skills |
+| Area | Tools & Skills |
 | --- | --- |
 | Business Intelligence | Power BI, DAX, Data Modeling, Interactive Dashboards |
-| Excel Analytics | Pivot Tables, Power Query, Slicers, Charts, Dashboard Design |
+| Excel Analytics | Advanced Excel, Pivot Tables, Power Query, Slicers, Charts |
 | Programming | Python, Pandas, NumPy, Data Handling |
 | Database | SQL, Joins, Aggregations, Filtering, Reporting Queries |
-| Analytics | Data Cleaning, KPI Tracking, Trend Analysis, Data Visualization, Reporting |
+| Analytics Workflow | Data Cleaning, KPI Tracking, Trend Analysis, Data Visualization, Reporting |
+| Business Focus | Sales Analysis, Operational Reporting, Customer Performance, Dashboard Storytelling |
 
 ---
 
 ## Featured Projects
 
-| Project | Tools | Business Focus |
-| --- | --- | --- |
-| [Superstore Sales Dashboard](Superstore-Dashboard) | Power BI, DAX | Sales, profit, region, category, and shipping analysis |
-| [Sales Performance Dashboard](Sales-Performance-Dashboard) | Power BI, DAX | Revenue trends, product performance, and country-wise sales |
-| [Call Center Performance Dashboard](Call-Center-Dashboard) | Excel | Call volume, customer ratings, agent workload, and operational performance |
+| Project | Tools | Focus Area | Link |
+| --- | --- | --- | --- |
+| Superstore Sales Dashboard | Power BI, DAX | Sales, profit, category, region, shipping analysis | [View Project](Superstore-Dashboard) |
+| Sales Performance Dashboard | Power BI, DAX | Revenue trends, product performance, country-wise sales | [View Project](Sales-Performance-Dashboard) |
+| Call Center Performance Dashboard | Excel | Call volume, customer ratings, agent workload, operations | [View Project](Call-Center-Dashboard) |
 
 ---
 
-## 1. Superstore Sales Dashboard - Power BI
+## Project Case Studies
+
+### 1. Superstore Sales Dashboard
 
 ![Superstore Sales Dashboard](Superstore-Dashboard/dashboard.png)
 
-**Business Question:** Which categories, regions, shipping modes, and product segments are driving sales and profit?
+**Tools Used:** Power BI, DAX, Data Modeling, Dashboard Design
 
-**What I Built**
-- Built an interactive Power BI dashboard for retail sales analysis.
-- Created KPI cards for sales, orders, profit, and ship days.
-- Added filters for region, category, and time-based analysis.
-- Visualized sales by month, category, sub-category, segment, payment mode, region, and shipping mode.
+**Business Goal:**  
+Analyze sales, profit, orders, regional performance, product categories, and shipping behavior to understand retail performance and support business decisions.
+
+**Dashboard Highlights**
+- KPI cards for total sales, orders, profit, and ship days
+- Monthly sales and profit trend analysis
+- Category and sub-category performance tracking
+- Sales breakdown by segment, payment mode, region, and shipping mode
+- Region-based filtering for focused business review
 
 **Key Insights**
 - Technology and office supplies showed strong sales contribution.
-- Regional filtering helps compare performance across markets.
-- Some high-sales areas need deeper profit analysis to avoid low-margin decisions.
+- Regional filtering helps compare market performance more clearly.
+- Some high-sales areas require deeper profit analysis to avoid low-margin decisions.
 
-**Skills Demonstrated:** Power BI, DAX, Data Modeling, Dashboard Design, KPI Reporting
-
-**Project Folder:** [Superstore-Dashboard](Superstore-Dashboard)
+**Project Files**
+- [Project README](Superstore-Dashboard/README.md)
+- [Power BI File](Superstore-Dashboard/superstore_dashboard.pbix)
+- [Dashboard Image](Superstore-Dashboard/dashboard.png)
 
 ---
 
-## 2. Sales Performance Dashboard - Power BI
+### 2. Sales Performance Dashboard
 
 ![Sales Performance Dashboard](Sales-Performance-Dashboard/dashboard.png)
 
-**Business Question:** How are sales performing across products, countries, and time periods?
+**Tools Used:** Power BI, DAX, Data Visualization, KPI Reporting
 
-**What I Built**
-- Created a Power BI dashboard to track sales and quantity sold.
-- Used date slicers to support time-based analysis.
-- Built visuals for monthly sales trends, top products, and sales distribution by country.
-- Highlighted key insights directly inside the dashboard.
+**Business Goal:**  
+Track sales performance across countries, products, and time periods to identify revenue trends, top products, and market contribution.
+
+**Dashboard Highlights**
+- KPI cards for total sales and total quantity
+- Monthly sales trend analysis
+- Top products by sales
+- Sales distribution by country
+- Date slicer for time-based analysis
+- Key insights section inside the dashboard
 
 **Key Insights**
-- Sales peaked during selected mid-year and early-year periods.
 - UK and USA contributed the highest revenue.
 - A small set of products generated a major share of total sales.
-- A sales drop in May 2024 requires further business investigation.
+- Sales dropped sharply around May 2024, which needs further business investigation.
 
-**Skills Demonstrated:** Power BI, Data Visualization, KPI Tracking, Sales Analysis
-
-**Project Folder:** [Sales-Performance-Dashboard](Sales-Performance-Dashboard)
+**Project Files**
+- [Project README](Sales-Performance-Dashboard/README.md)
+- [Power BI File](Sales-Performance-Dashboard/sales_dashboard.pbix)
+- [Dashboard Image](Sales-Performance-Dashboard/dashboard.png)
 
 ---
 
-## 3. Call Center Performance Dashboard - Excel
+### 3. Call Center Performance Dashboard
 
 ![Call Center Performance Dashboard](Call-Center-Dashboard/dashboard.png)
 
-**Business Question:** How can call center performance be monitored using call volume, ratings, agent workload, and revenue metrics?
+**Tools Used:** Advanced Excel, Pivot Tables, Slicers, Charts, Data Cleaning
 
-**What I Built**
-- Built an interactive Excel dashboard using Pivot Tables, charts, and slicers.
-- Tracked total calls, total amount, duration, average rating, and happy caller count.
-- Analyzed monthly call trends, day-wise call distribution, and agent-level performance.
-- Compared caller behavior across gender and city-level groups.
+**Business Goal:**  
+Monitor call center performance using call volume, amount generated, call duration, customer ratings, agent workload, and caller trends.
+
+**Dashboard Highlights**
+- KPI cards for calls, amount, duration, rating, and happy callers
+- Monthly call trend analysis
+- Day-wise call distribution
+- Agent/representative-wise performance tracking
+- Gender and city-level caller comparison
+- Customer rating distribution
 
 **Key Insights**
 - Mid-week days showed higher call activity.
 - Customer ratings varied across caller groups and operational segments.
-- Agent-level tracking helps identify workload distribution and performance patterns.
+- Agent-level tracking helps understand workload distribution and performance patterns.
 
-**Skills Demonstrated:** Advanced Excel, Pivot Tables, Slicers, Data Cleaning, Dashboard Reporting
-
-**Project Folder:** [Call-Center-Dashboard](Call-Center-Dashboard)
+**Project Files**
+- [Project README](Call-Center-Dashboard/README.md)
+- [Excel Dashboard File](Call-Center-Dashboard/Call_center_project.xlsx)
+- [Dashboard Image](Call-Center-Dashboard/dashboard.png)
 
 ---
 
